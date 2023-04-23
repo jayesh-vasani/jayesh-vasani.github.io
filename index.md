@@ -18,7 +18,4 @@ I am an accomplished professional with more than 12 years of experience, includi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 😂 Random Dev Meme
-<img src="https://myrandom-meme-generator.glitch.me/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jayesh-vasani&icon=1&color=12)](https://visitcount.itsvg.in)
+![](https://myrandom-meme-generator.glitch.me)
