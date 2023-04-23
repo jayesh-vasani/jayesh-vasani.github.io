@@ -2,7 +2,6 @@
 # Jayesh Vasani
 Technical Project Manager | WordPress | Laravel | Magento | MEAN Stack | SEO Enthusiast | Driving Success through Effective Project Management & Technical Expertise
 
-
 ## 💫 About Me
 I am an accomplished professional with more than 12 years of experience, including 9 years as a Project Manager and more than 3 years as a Developer. I have handled complex projects in demanding, time-constrained settings. I have a solid grasp of project management processes and methodologies, and I have a track record of producing results while adhering to stringent deadlines and spending limits. My experience has allowed me to forge great leadership, problem-solving, and communication abilities, all of which have been essential to my success in leading cross-functional teams and forging enduring connections with stakeholders. I can work well with technical teams and manage the implementation of complicated systems because to my technical experience. I consider myself to be a dynamic and results-driven professional that enjoys working under pressure and is committed to producing positive results.
 
