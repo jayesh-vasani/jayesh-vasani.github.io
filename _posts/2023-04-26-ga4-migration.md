@@ -1,6 +1,6 @@
 ---
 layout: post
-author: ted
+author: Jayesh Vasani
 ---
 GA4 Migration: Unlocking Advantages of Google Analytics 4
 
