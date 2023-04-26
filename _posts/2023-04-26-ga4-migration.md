@@ -1,3 +1,7 @@
+---
+layout: post
+author: ted
+---
 GA4 Migration: Unlocking Advantages of Google Analytics 4
 
 As of July 1, 2023, Google will be retiring Universal Analytics, its traditional web analytics solution, and shifted its focus to Google Analytics 4 (GA4). Website owners and marketers have a lot to gain from this transformation in terms of improving data-driven decision-making and learning more about user behavior.
