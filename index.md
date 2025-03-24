@@ -7,7 +7,7 @@ description: "Technical Project Manager | WordPress | Shopify | Laravel | Magent
 **Technical Project Manager** | WordPress | Shopify | Laravel | Magento | ReactJS | NodeJS | SEO Consultant | Driving Success through Effective Project & Program Management
 
 ## 💫 About Me
-I am a **Technical Project Manager** with **14+ years of experience**, specializing in **software development, cloud infrastructure, and digital transformation**. My role involves **leading cross-functional teams, overseeing project execution, and driving strategic initiatives**. With a strong background in **technical program management**, I ensure the seamless alignment of **technology, business objectives, and stakeholder expectations**.
+I am a **Technical Project Manager** with **15+ years of experience**, specializing in **software development, cloud infrastructure, and digital transformation**. My role involves **leading cross-functional teams, overseeing project execution, and driving strategic initiatives**. With a strong background in **technical program management**, I ensure the seamless alignment of **technology, business objectives, and stakeholder expectations**.
 
 My expertise lies in **project planning, risk mitigation, resource management, and Agile methodologies**. With hands-on experience in **PHP, Laravel, ReactJS, Node.js, Shopify, and AWS**, I excel at bridging the gap between engineering teams and business needs. Passionate about **continuous process optimization**, I thrive in fast-paced environments, ensuring efficient program delivery and operational excellence.
 
